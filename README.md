@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: a TypeError in a function designed to calculate the average of a list of numbers. The bug arises when the input list contains non-numeric elements.  The solution provides a robust implementation that handles various scenarios, including empty lists and lists with mixed data types.
